@@ -3,6 +3,6 @@ Template para un iniciator con spring boot para la creacion de proyectos quickfi
 
 Ya configurado manualmente por config la coneccion a un acceptor
 
-Instalar las dependencias en maven mediante
-# code block
+
+# Instalar las dependencias
 mvn clean install
